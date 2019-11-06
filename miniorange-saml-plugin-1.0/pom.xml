@@ -8,7 +8,7 @@
     <groupId>com.miniorange.saml</groupId>
     <artifactId>miniorange-saml-plugin</artifactId>
     <version>1.0</version>
-    <name>miniOrangeSAML</name>
+    <name>miniOrange SonarQube SAML SSO Plugin</name>
     <description>Provides SAML Authentication for Single Sign On into SonarQube application.</description>
     <packaging>sonar-plugin</packaging>
 
